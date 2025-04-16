@@ -1,0 +1,35 @@
+
+@import "tailwindcss";
+
+.toast-success {
+    
+
+
+    background-color: #22c55e !important; /* Tailwind green-500 */
+  color: white !important;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+
+  }
+
+
+  .toast-error {
+    /* background-color: #ef4444 !important; /* Tailwind red-500 */
+    /* color: white !important;  */
+    /* background-color: #ef4444 !important; Red */
+  /* color: white !important; */
+  /* min-height: 80px; */
+  /* display: flex; */
+  /* align-items: center; */
+  /* padding: 1rem; */
+  background-color: #ef4444 !important; /* Tailwind red-500 */
+  color: white !important;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+
+  }
+  
